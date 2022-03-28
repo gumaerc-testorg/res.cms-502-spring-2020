@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Photo of a metal statue holding a book that says "Education."
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: res-cms-502s20-th.jpg
 uid: 4356d127-3dc8-7c73-94ef-6a5895b857a3
