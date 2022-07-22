@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of a metal statue holding a book that says "Education."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-cms-502s20-th.jpg
