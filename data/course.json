@@ -32,7 +32,10 @@
     "content": "4356d127-3dc8-7c73-94ef-6a5895b857a3",
     "website": "res-cms-502-competency-based-education-the-why-what-and-how-spring-2020"
   },
-  "learning_resource_types": [],
-  "site_uid": "13c243ec-5683-487f-a144-38f1cbd8ed75",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Activity Assignments"
+  ],
+  "site_uid": "ffbea2f7-9afa-42c1-85f1-4bd9b3ee516a",
   "title": "Course Metadata"
 }
