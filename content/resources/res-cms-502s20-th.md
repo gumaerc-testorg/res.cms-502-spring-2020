@@ -6,8 +6,8 @@ file_size: 13635
 file_type: image/jpeg
 image_metadata:
   caption: This course focuses on competency-based education in schools.(Image courtesy
-    of Alan Levine ([cogdog](https://flic.kr/p/XkjwXs)) on Flickr. Image is in the
-    public domain.)
+    of Alan Levine ({{% resource_link "7cca874f-390a-4726-9dd4-bd78df3eee43" "cogdog"
+    %}}) on Flickr. Image is in the public domain.)
   credit: ''
   image-alt: Photo of a metal statue holding a book that says "Education."
 learning_resource_types: []
